@@ -116,55 +116,73 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Bachelors of Engineering",
+    company_name: "Yeshwantrao Chavan College of Engineering, Nagpur (YCCE)",
+    icon: starbucks, //ycce
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "2013 - 2017",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Completed graduation in Computer Science in July 2017",
+      "Published a paper on 'Grid Computing in Parallel Computing'",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "Software Intern/Developer",
+    company_name: " Orbit Tree",
+    icon: tesla, //Orbit Tree
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "2017 - 2018",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Started working as a software intern on a startup.",
+      "Worked on python scripts and SQL queries on company internal website.",
+      "Code analysis and debugging for internal website with python and JavaScript.",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "ETL Developer",
+    company_name: "Syntel",
+    icon: shopify, //syntel
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "2018 - 2019",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Implemented over 50 stored procedures in using SQL server, and use the same stored procedures for report development in SSRS, tableau maintaining the ETL pipelines with maximum efficiency.",
+      "Maintained data pipeline up-time of 99% while ingesting insurance data across 8 different primary data sources using SQL server, SSIS, SSMS and Python.",
+      "Communicated with clients and business analysts about data pipelines that drove efficiency KPIs up by 22%. Involved in Agile Methodologies and SCRUM Process.",
+      "Worked with client to understand business needs and translate those business needs into actionable reports in Tableau, saving 15 hours of manual work in a week.",
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    title: "Software Developer",
+    company_name: "Atos-Syntel",
+    icon: meta, //Atos
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "2019 - 2020",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Designed and implemented a real-time data pipeline to process semi-structured data by integrating 80 million raw records from multiple data sources with SSIS, tableau and python.",
+      "Automated ETL processes across billions of rows of data, which reduced manual workload by 21% monthly.",
+      "Data visualization and analysis with python using business logic and client requirements.",
+    ],
+  },
+  {
+    title: "Software Developer",
+    company_name: "Addicor Technologies",
+    icon: meta, //Addicor Technologies
+    iconBg: "#E6DEDD",
+    date: "2020 - 2021",
+    points: [
+      "Develop and test the website with Python Django, maintain the backend along with database management.",
+      "Debugging and analysing the root cause of errors and fixing them.",
+    ],
+  },
+  {
+    title: "Masters in MSc Big Data Science",
+    company_name: "Queen Mary University, London",
+    icon: meta, //QMUL
+    iconBg: "#E6DEDD",
+    date: "2021 - 2022",
+    points: [
+      "Worked on a few personal projects including machine learning, deep learning and hadoop 3.x.",
+      "Implemented real-time sign language recognition, created multiple variants of dataset for American Sign Language to train the models",
     ],
   },
 ];

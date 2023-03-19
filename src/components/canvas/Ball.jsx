@@ -6,7 +6,7 @@ import {
   OrbitControls,
   Preload,
   useTexture,
-} from "@react-three/drei";
+} from "@react-three/nikhil";
 
 import CanvasLoader from "../Loader";
 

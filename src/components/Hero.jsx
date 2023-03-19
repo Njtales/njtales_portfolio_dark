@@ -20,7 +20,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I specialize in analyzing and visualizing data, developing data pipelines, <br className='sm:block hidden' />
-            and creating prediction models to help businesses make data-driven decisions.
+            and building prediction models to help businesses make data-driven decisions.
           </p>
         </div>
       </div>
