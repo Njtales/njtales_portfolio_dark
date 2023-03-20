@@ -19,6 +19,12 @@ import {
   starbucks,
   tesla,
   shopify,
+  ycce,
+  addicor,
+  orbit_tree,
+  qmul,
+  atos_syntel,
+  syntel,
   carrent,
   jobit,
   tripguide,
@@ -118,18 +124,19 @@ const experiences = [
   {
     title: "Bachelors of Engineering",
     company_name: "Yeshwantrao Chavan College of Engineering, Nagpur (YCCE)",
-    icon: starbucks, //ycce
-    iconBg: "#383E56",
+    icon: ycce,
+    iconBg: "#E6DEDD",
     date: "2013 - 2017",
     points: [
       "Completed graduation in Computer Science in July 2017",
       "Published a paper on 'Grid Computing in Parallel Computing'",
+      "Implemented a monitoring and attendance app for traffic police officers to clock-in or clock-out according to their locations",
     ],
   },
   {
     title: "Software Intern/Developer",
     company_name: " Orbit Tree",
-    icon: tesla, //Orbit Tree
+    icon: orbit_tree,
     iconBg: "#E6DEDD",
     date: "2017 - 2018",
     points: [
@@ -141,8 +148,8 @@ const experiences = [
   {
     title: "ETL Developer",
     company_name: "Syntel",
-    icon: shopify, //syntel
-    iconBg: "#383E56",
+    icon: syntel,
+    iconBg: "#E6DEDD",
     date: "2018 - 2019",
     points: [
       "Implemented over 50 stored procedures in using SQL server, and use the same stored procedures for report development in SSRS, tableau maintaining the ETL pipelines with maximum efficiency.",
@@ -154,7 +161,7 @@ const experiences = [
   {
     title: "Software Developer",
     company_name: "Atos-Syntel",
-    icon: meta, //Atos
+    icon: atos_syntel,
     iconBg: "#E6DEDD",
     date: "2019 - 2020",
     points: [
@@ -166,7 +173,7 @@ const experiences = [
   {
     title: "Software Developer",
     company_name: "Addicor Technologies",
-    icon: meta, //Addicor Technologies
+    icon: addicor,
     iconBg: "#E6DEDD",
     date: "2020 - 2021",
     points: [
@@ -177,7 +184,7 @@ const experiences = [
   {
     title: "Masters in MSc Big Data Science",
     company_name: "Queen Mary University, London",
-    icon: meta, //QMUL
+    icon: qmul,
     iconBg: "#E6DEDD",
     date: "2021 - 2022",
     points: [

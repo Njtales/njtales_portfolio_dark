@@ -26,6 +26,13 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
+import ycce from "./company/ycce.png";
+import addicor from "./company/addicor.png";
+import orbit_tree from "./company/orbit_tree.png";
+import qmul from "./company/qmul.png";
+import atos_syntel from "./company/atos_syntel.png";
+import syntel from "./company/syntel.png";
+
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -52,10 +59,18 @@ export {
   tailwind,
   typescript,
   threejs,
+  
   meta,
   shopify,
   starbucks,
   tesla,
+  ycce,
+  addicor,
+  orbit_tree,
+  qmul,
+  atos_syntel,
+  syntel,
+
   carrent,
   jobit,
   tripguide,
