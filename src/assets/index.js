@@ -20,11 +20,15 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import python from "./tech/python.png";
+import analysis from "./tech/analysis.png";
+import etl from "./tech/etl.jpg";
+import ml from "./tech/ml.png";
+import dl from "./tech/dl.png";
+import tableau from "./tech/tableau.png";
+import dbsql from "./tech/dbsql.png";
+import airflow from "./tech/airflow.png";
+import kafka from "./tech/kafka.png";
 
 import ycce from "./company/ycce.png";
 import addicor from "./company/addicor.png";
@@ -59,18 +63,22 @@ export {
   tailwind,
   typescript,
   threejs,
+  python,
+  analysis,
+  etl,
+  ml,
+  dl,
+  tableau,
+  dbsql,
+  airflow,
+  kafka,
   
-  meta,
-  shopify,
-  starbucks,
-  tesla,
   ycce,
   addicor,
   orbit_tree,
   qmul,
   atos_syntel,
   syntel,
-
   carrent,
   jobit,
   tripguide,

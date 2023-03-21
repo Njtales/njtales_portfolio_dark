@@ -15,10 +15,7 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+
   ycce,
   addicor,
   orbit_tree,
@@ -29,6 +26,15 @@ import {
   jobit,
   tripguide,
   threejs,
+  analysis,
+  python,
+  etl,
+  ml,
+  dl,
+  tableau,
+  dbsql,
+  airflow,
+  kafka,
 } from "../assets";
 
 export const navLinks = [
@@ -67,36 +73,36 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
+    name: "Analysis",
+    icon: analysis,
   },
   {
-    name: "CSS 3",
-    icon: css,
+    name: "Python",
+    icon: python,
   },
   {
-    name: "JavaScript",
-    icon: javascript,
+    name: "ETL",
+    icon: etl,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "Machine Learning",
+    icon: ml,
   },
   {
-    name: "React JS",
-    icon: reactjs,
+    name: "Deep Learning",
+    icon: dl,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "Tableau",
+    icon: tableau,
   },
   {
-    name: "Tailwind CSS",
-    icon: tailwind,
+    name: "Apache Airflow",
+    icon: airflow,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
+    name: "dbsql",
+    icon: dbsql,
   },
   {
     name: "MongoDB",
@@ -111,8 +117,8 @@ const technologies = [
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "Apache Kafka",
+    icon: kafka,
   },
   {
     name: "docker",
